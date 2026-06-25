@@ -1,0 +1,219 @@
+{
+  "knee_type": "aspect",
+  "knee_label": "Aspect 75-90 deg (SNR=15 dB)",
+  "knee_accuracy": 0.4058333333333333,
+  "knee_confusion_matrix": [
+    [
+      10,
+      0,
+      74,
+      0,
+      89,
+      27
+    ],
+    [
+      1,
+      59,
+      71,
+      0,
+      55,
+      14
+    ],
+    [
+      0,
+      0,
+      46,
+      0,
+      0,
+      154
+    ],
+    [
+      0,
+      0,
+      40,
+      114,
+      1,
+      45
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      58,
+      142
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      200
+    ]
+  ],
+  "knee_per_class": {
+    "walk": 0.05,
+    "run": 0.295,
+    "sit_down": 0.23,
+    "fall": 0.57,
+    "wave": 0.29,
+    "idle": 1.0
+  },
+  "n_misclassified": 713,
+  "n_total": 1200,
+  "most_confused_pairs": [
+    {
+      "true": "sit_down",
+      "pred": "idle",
+      "count": 154
+    },
+    {
+      "true": "wave",
+      "pred": "idle",
+      "count": 142
+    },
+    {
+      "true": "walk",
+      "pred": "wave",
+      "count": 89
+    },
+    {
+      "true": "walk",
+      "pred": "sit_down",
+      "count": 74
+    },
+    {
+      "true": "run",
+      "pred": "sit_down",
+      "count": 71
+    },
+    {
+      "true": "run",
+      "pred": "wave",
+      "count": 55
+    },
+    {
+      "true": "fall",
+      "pred": "idle",
+      "count": 45
+    },
+    {
+      "true": "fall",
+      "pred": "sit_down",
+      "count": 40
+    },
+    {
+      "true": "walk",
+      "pred": "idle",
+      "count": 27
+    },
+    {
+      "true": "run",
+      "pred": "idle",
+      "count": 14
+    }
+  ],
+  "misclassified_samples": [
+    {
+      "index": 561,
+      "true_label": "sit_down",
+      "pred_label": "idle",
+      "true_idx": 2,
+      "pred_idx": 5
+    },
+    {
+      "index": 960,
+      "true_label": "wave",
+      "pred_label": "idle",
+      "true_idx": 4,
+      "pred_idx": 5
+    },
+    {
+      "index": 32,
+      "true_label": "walk",
+      "pred_label": "wave",
+      "true_idx": 0,
+      "pred_idx": 4
+    },
+    {
+      "index": 36,
+      "true_label": "walk",
+      "pred_label": "sit_down",
+      "true_idx": 0,
+      "pred_idx": 2
+    },
+    {
+      "index": 241,
+      "true_label": "run",
+      "pred_label": "sit_down",
+      "true_idx": 1,
+      "pred_idx": 2
+    },
+    {
+      "index": 342,
+      "true_label": "run",
+      "pred_label": "wave",
+      "true_idx": 1,
+      "pred_idx": 4
+    },
+    {
+      "index": 618,
+      "true_label": "fall",
+      "pred_label": "idle",
+      "true_idx": 3,
+      "pred_idx": 5
+    },
+    {
+      "index": 755,
+      "true_label": "fall",
+      "pred_label": "sit_down",
+      "true_idx": 3,
+      "pred_idx": 2
+    },
+    {
+      "index": 18,
+      "true_label": "walk",
+      "pred_label": "idle",
+      "true_idx": 0,
+      "pred_idx": 5
+    },
+    {
+      "index": 220,
+      "true_label": "run",
+      "pred_label": "idle",
+      "true_idx": 1,
+      "pred_idx": 5
+    }
+  ],
+  "correct_samples": [
+    {
+      "index": 40,
+      "true_label": "walk",
+      "pred_label": "walk",
+      "true_idx": 0,
+      "pred_idx": 0
+    },
+    {
+      "index": 385,
+      "true_label": "run",
+      "pred_label": "run",
+      "true_idx": 1,
+      "pred_idx": 1
+    },
+    {
+      "index": 439,
+      "true_label": "sit_down",
+      "pred_label": "sit_down",
+      "true_idx": 2,
+      "pred_idx": 2
+    },
+    {
+      "index": 631,
+      "true_label": "fall",
+      "pred_label": "fall",
+      "true_idx": 3,
+      "pred_idx": 3
+    }
+  ]
+}

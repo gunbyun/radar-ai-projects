@@ -1,0 +1,332 @@
+[
+  {
+    "aspect_band": "0-15",
+    "aspect_lo": 0,
+    "aspect_hi": 15,
+    "data_seed": 8000,
+    "per_model_seed": {
+      "s42": 1.0,
+      "s43": 1.0,
+      "s44": 1.0
+    },
+    "mean_accuracy": 1.0,
+    "std_accuracy": 0.0,
+    "per_class_mean": {
+      "walk": 1.0,
+      "run": 1.0,
+      "sit_down": 1.0,
+      "fall": 1.0,
+      "wave": 1.0,
+      "idle": 1.0
+    },
+    "per_class_std": {
+      "walk": 0.0,
+      "run": 0.0,
+      "sit_down": 0.0,
+      "fall": 0.0,
+      "wave": 0.0,
+      "idle": 0.0
+    },
+    "per_model_per_class": {
+      "s42": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      },
+      "s43": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      },
+      "s44": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      }
+    }
+  },
+  {
+    "aspect_band": "15-30",
+    "aspect_lo": 15,
+    "aspect_hi": 30,
+    "data_seed": 8001,
+    "per_model_seed": {
+      "s42": 1.0,
+      "s43": 1.0,
+      "s44": 1.0
+    },
+    "mean_accuracy": 1.0,
+    "std_accuracy": 0.0,
+    "per_class_mean": {
+      "walk": 1.0,
+      "run": 1.0,
+      "sit_down": 1.0,
+      "fall": 1.0,
+      "wave": 1.0,
+      "idle": 1.0
+    },
+    "per_class_std": {
+      "walk": 0.0,
+      "run": 0.0,
+      "sit_down": 0.0,
+      "fall": 0.0,
+      "wave": 0.0,
+      "idle": 0.0
+    },
+    "per_model_per_class": {
+      "s42": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      },
+      "s43": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      },
+      "s44": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      }
+    }
+  },
+  {
+    "aspect_band": "30-45",
+    "aspect_lo": 30,
+    "aspect_hi": 45,
+    "data_seed": 8002,
+    "per_model_seed": {
+      "s42": 1.0,
+      "s43": 1.0,
+      "s44": 1.0
+    },
+    "mean_accuracy": 1.0,
+    "std_accuracy": 0.0,
+    "per_class_mean": {
+      "walk": 1.0,
+      "run": 1.0,
+      "sit_down": 1.0,
+      "fall": 1.0,
+      "wave": 1.0,
+      "idle": 1.0
+    },
+    "per_class_std": {
+      "walk": 0.0,
+      "run": 0.0,
+      "sit_down": 0.0,
+      "fall": 0.0,
+      "wave": 0.0,
+      "idle": 0.0
+    },
+    "per_model_per_class": {
+      "s42": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      },
+      "s43": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      },
+      "s44": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      }
+    }
+  },
+  {
+    "aspect_band": "45-60",
+    "aspect_lo": 45,
+    "aspect_hi": 60,
+    "data_seed": 8003,
+    "per_model_seed": {
+      "s42": 1.0,
+      "s43": 1.0,
+      "s44": 1.0
+    },
+    "mean_accuracy": 1.0,
+    "std_accuracy": 0.0,
+    "per_class_mean": {
+      "walk": 1.0,
+      "run": 1.0,
+      "sit_down": 1.0,
+      "fall": 1.0,
+      "wave": 1.0,
+      "idle": 1.0
+    },
+    "per_class_std": {
+      "walk": 0.0,
+      "run": 0.0,
+      "sit_down": 0.0,
+      "fall": 0.0,
+      "wave": 0.0,
+      "idle": 0.0
+    },
+    "per_model_per_class": {
+      "s42": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      },
+      "s43": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      },
+      "s44": {
+        "walk": 1.0,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 1.0,
+        "idle": 1.0
+      }
+    }
+  },
+  {
+    "aspect_band": "60-75",
+    "aspect_lo": 60,
+    "aspect_hi": 75,
+    "data_seed": 8004,
+    "per_model_seed": {
+      "s42": 0.9725,
+      "s43": 0.9808333333333333,
+      "s44": 0.9775
+    },
+    "mean_accuracy": 0.9769444444444444,
+    "std_accuracy": 0.003424674446093865,
+    "per_class_mean": {
+      "walk": 0.8850000000000001,
+      "run": 0.9899999999999999,
+      "sit_down": 0.9950000000000001,
+      "fall": 1.0,
+      "wave": 0.9916666666666666,
+      "idle": 1.0
+    },
+    "per_class_std": {
+      "walk": 0.031885210782848346,
+      "run": 0.008164965809277268,
+      "sit_down": 0.004082482904638634,
+      "fall": 0.0,
+      "wave": 0.0023570226039551605,
+      "idle": 0.0
+    },
+    "per_model_per_class": {
+      "s42": {
+        "walk": 0.84,
+        "run": 1.0,
+        "sit_down": 1.0,
+        "fall": 1.0,
+        "wave": 0.995,
+        "idle": 1.0
+      },
+      "s43": {
+        "walk": 0.91,
+        "run": 0.99,
+        "sit_down": 0.995,
+        "fall": 1.0,
+        "wave": 0.99,
+        "idle": 1.0
+      },
+      "s44": {
+        "walk": 0.905,
+        "run": 0.98,
+        "sit_down": 0.99,
+        "fall": 1.0,
+        "wave": 0.99,
+        "idle": 1.0
+      }
+    }
+  },
+  {
+    "aspect_band": "75-90",
+    "aspect_lo": 75,
+    "aspect_hi": 90,
+    "data_seed": 8005,
+    "per_model_seed": {
+      "s42": 0.4058333333333333,
+      "s43": 0.4025,
+      "s44": 0.3516666666666667
+    },
+    "mean_accuracy": 0.3866666666666667,
+    "std_accuracy": 0.024786122162449124,
+    "per_class_mean": {
+      "walk": 0.06,
+      "run": 0.2733333333333333,
+      "sit_down": 0.19666666666666668,
+      "fall": 0.5133333333333333,
+      "wave": 0.27666666666666667,
+      "idle": 1.0
+    },
+    "per_class_std": {
+      "walk": 0.017795130420052187,
+      "run": 0.049385107966763514,
+      "sit_down": 0.026562295750848713,
+      "fall": 0.05436502143433362,
+      "wave": 0.015456030825826162,
+      "idle": 0.0
+    },
+    "per_model_per_class": {
+      "s42": {
+        "walk": 0.05,
+        "run": 0.295,
+        "sit_down": 0.23,
+        "fall": 0.57,
+        "wave": 0.29,
+        "idle": 1.0
+      },
+      "s43": {
+        "walk": 0.085,
+        "run": 0.32,
+        "sit_down": 0.195,
+        "fall": 0.53,
+        "wave": 0.285,
+        "idle": 1.0
+      },
+      "s44": {
+        "walk": 0.045,
+        "run": 0.205,
+        "sit_down": 0.165,
+        "fall": 0.44,
+        "wave": 0.255,
+        "idle": 1.0
+      }
+    }
+  }
+]
