@@ -1,6 +1,6 @@
 # Radar-AI P2: Micro-Doppler HAR (W14 제출)
 
-변건 · 학번 202650765 · 충남대학교 대학원 레이더+AI · 2026.06
+변건 · 학번 202650765 · 충남대학교 대학원 인공지능 기반 레이다 신호처리 · 2026.06
 
 ## 코드 출처 (중요)
 - `common/`, `shared/`, `projects/p02_resnet18_har/` 의 모델·데이터 합성·학습·평가 코드는 **강의에서 제공한 reference 코드**(REMI Lab, `remilab-cnu/radar-ai-projects`)를 기반으로 한다.
